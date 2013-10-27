@@ -4,8 +4,8 @@ Tweetledee
 **A PHP library that provides an incredibly easy way to access Twitter data as JSON, pretty printed JSON, or RSS feeds**
 
 ## Documentation Site
-<a href="http://chrissimpkins.github.io/tweetledee
-">http://chrissimpkins.github.io/tweetledee</a>
+<a href="http://thecustomizewindows.com/2013/07/get-your-twitters-tweet-as-rss-and-json-with-new-twitter-api/
+">http://thecustomizewindows.com/2013/07/get-your-twitters-tweet-as-rss-and-json-with-new-twitter-api/</a>
 
 ## Current Release
  - <b>0.2.9</b> : Added Twitter user lists RSS feeds <code>listsrss.php</code>, JSON <code>listsjson.php</code>, pretty printed JSON <code>listsjson_pp.php</code>
@@ -57,15 +57,17 @@ That was easy... Go crazy, be good, have fun.
 ## Usage
 <a href="http://chrissimpkins.github.io/tweetledee/usage.html">Tweetledee Usage Examples</a>
 
+## Live Example
+
+<a href="http://thecustomizewindows.com/Twitter-RSS-Feed/twitter_json_to_rss.php?screen_name=AbhishekCTRL">Tweetledee Usage Examples</a>
+
 ## Bugs & Questions
 If you find a bug, please post it as a new issue on the GitHub repository.
 
-Looking for support? Check <a href="http://chrissimpkins.github.io/tweetledee/support.html">this page</a>.
+Looking for support? Check <a href="http://thecustomizewindows.com/2013/10/twitter-tricks-and-cheat-sheet-with-new-api/">this page</a>.
 
 If you would like to contribute to the project, by all means, please do so.  Fork Tweetledee and submit a pull request back to the repository.  I will make a development branch if there is any significant interest in contributing to the project.
 
 ## License
-MIT License - see the LICENSE.txt file in the source distribution
-
-✪ Chris
+MIT License - see the LICENSE.txt file in the source distribution. 
 
